@@ -12,6 +12,7 @@
 
 body {
   background-color: black;
+  -webkit-tap-highlight-color:transparent;
 }
 
 /* Target the entire scrollbar */
