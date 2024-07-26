@@ -10,6 +10,7 @@
 
 body {
     background: rgb(130, 106, 251);
+    -webkit-tap-highlight-color:transparent;
 }
 
 .logocrd img{
